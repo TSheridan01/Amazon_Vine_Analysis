@@ -6,25 +6,14 @@ The purpose of this project is to analyze analyzing Amazon reviews written by me
 
 
 
-2017 Timestamp
-![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
-
-2017 Timestamp
-![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
+![image](https://github.com/TSheridan01/Amazon_Vine_Analysis/blob/42f4c37fdfb703690595bbbb194609c558de56f0/Screen%20Shot%202022-11-06%20at%2012.36.43%20PM.png)
 
 
-2017 Timestamp
-![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
+![image](https://github.com/TSheridan01/Amazon_Vine_Analysis/blob/42f4c37fdfb703690595bbbb194609c558de56f0/Screen%20Shot%202022-11-06%20at%2012.37.52%20PM.png)
 
 
-2017 Timestamp
-![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
+![image](https://github.com/TSheridan01/Amazon_Vine_Analysis/blob/42f4c37fdfb703690595bbbb194609c558de56f0/Screen%20Shot%202022-11-06%20at%2012.38.20%20PM.png)
 
 
-2017 Timestamp
-![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
-
-
-2017 Timestamp
-![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
+![image](https://github.com/TSheridan01/Amazon_Vine_Analysis/blob/42f4c37fdfb703690595bbbb194609c558de56f0/Screen%20Shot%202022-11-06%20at%2012.38.38%20PM.png)
 
